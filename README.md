@@ -7,5 +7,6 @@ html semântico, css moderno.
   * operadores ternarios, operadores lógicos.
   * funçoes.
   * eventos de escuta.(etc).
+
 App:https://gustavolisboa10.github.io/advanced-task-list/
 ![Todo Avançado](https://github.com/gustavolisboa10/advanced-task-list/assets/114710706/fc00ed62-05e6-42de-99d6-02c94ca4a9f9)
