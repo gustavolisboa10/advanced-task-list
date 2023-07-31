@@ -11,15 +11,12 @@ height: 100vh;
 
 }
 body{
-<<<<<<< HEAD
-/* background-color: #292929; */
-background-image: linear-gradient(to right, #1488CC , #2B32B2);
-=======
+
+
 background-image: linear-gradient(to right, #1488CC , #2B32B2);
 }
 
->>>>>>> c4e0d3833df33a0e09593c2409cfe8f84bc909f5
-}
+
 
 button{
     background-color: #fdfdfd;
